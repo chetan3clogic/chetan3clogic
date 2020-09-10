@@ -56,10 +56,10 @@
 <br/><br/>
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=chetan177&show_icons=true&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=chetan3clogic&show_icons=true&hide_border=true)
 
 <a href="https://github.com/chetan177">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan177&show_icons=true&hide_border=tru" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan3clogic&show_icons=true&hide_border=tru" />
 </a>
 
 
