@@ -56,6 +56,6 @@
 <br/><br/>
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=chetan3clogic&show_icons=true&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=chetan3clogic&show_icons=true&theme=radical&hide_border=true)
 
 ### Show some ❤️ by starring some of the repositories!  ⭐️ From [Chetan](https://github.com/chetan177)
