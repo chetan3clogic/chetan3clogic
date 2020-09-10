@@ -1,4 +1,4 @@
-### Hey 👋, I'm [Chetan Pandey]() 👨‍💻
+### Hey 👋, I'm [Chetan Pandey](https://github.com/chetan177) 👨‍💻
 
 <a href="https://twitter.com/chetanpandey177">
   <img align="left" alt="Chetan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
